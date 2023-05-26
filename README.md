@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 - `Clean architecture` including `Onion`
 - `MVVM pattern` 
 ### Also I have experience in web development:
-[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,figma)](https://skillicons.dev)
+[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind)](https://skillicons.dev)
 - `HTML`
 - `CSS`
 - `JavaScript`
@@ -32,14 +32,14 @@ Here are some ideas to get you started:
 - `React`
 - `Redux`
 - `Tailwind`
-- `Figma`
+
 ### My another skills:
-[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git)](https://skillicons.dev)
+[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git,figma)](https://skillicons.dev)
 - `Docker`
 - `K8s`
 - `Helm`
 - `Linux OS`
 - `Git`
 - `Mac OS`
-
+- `Figma`
 
