@@ -17,6 +17,7 @@ Here are some ideas to get you started:
 ## My name is Max!
 🔭 Currently I'm a mobile frontend-developer
 ### My stack is:
-- [![Myskills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
-
+[![Myskills](https://skillicons.dev/icons?i=dart,flutter)](https://skillicons.dev)
+- 'Dart'
+- 'FLutter'
 Also I have experience in web development
