@@ -24,9 +24,19 @@ Here are some ideas to get you started:
 - `Clean architecture` including `Onion`
 - `MVVM pattern` 
 ### Also I have experience in web development:
-[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux)](https://skillicons.dev)
+[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,figma)](https://skillicons.dev)
+- `HTML`
+- `CSS`
+- `JavaScript`
 - `Typescript`
 - `React`
 - `Redux`
+- `Tailwind`
+- `Figma`
+### And also have little bit experience in DevOps:
+[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,helm)](https://skillicons.dev)
+- `Docker`
+- `K8s`
+- `Helm`
 
 
