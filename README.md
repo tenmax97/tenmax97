@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 - `Tailwind`
 - `Figma`
 ### My another skills:
-[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,helm,linux,macos,git)](https://skillicons.dev)
+[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,linux,git)](https://skillicons.dev)
 - `Docker`
 - `K8s`
 - `Helm`
