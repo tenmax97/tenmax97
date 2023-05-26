@@ -23,7 +23,10 @@ Here are some ideas to get you started:
 - `Swift`
 - `Clean architecture` including `Onion`
 - `MVVM pattern` 
-### I'm improve my skills in this techs:
+### Also I have experience in web development:
+[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux)](https://skillicons.dev)
+- `Typescript`
+- `React`
+- `Redux`
 
-- ``
-Also I have experience in web development
+
