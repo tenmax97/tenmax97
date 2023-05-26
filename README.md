@@ -33,10 +33,13 @@ Here are some ideas to get you started:
 - `Redux`
 - `Tailwind`
 - `Figma`
-### My another :
-[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,helm)](https://skillicons.dev)
+### My another skills:
+[![Myskills](https://skillicons.dev/icons?i=docker,kubernetes,helm,linux,macos,git)](https://skillicons.dev)
 - `Docker`
 - `K8s`
 - `Helm`
+- `Linux OS`
+- `Git`
+- `Mac OS`
 
 
