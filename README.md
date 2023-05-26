@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 🔭 Currently I'm a mobile frontend-developer
 ### My main stack is:
 [![Myskills](https://skillicons.dev/icons?i=dart,flutter,swift,vscode)](https://skillicons.dev)
-- `Dart` `FLutter` `Swift` `Clean architecture` including `Onion` `MVVM pattern` 
+`Dart` `FLutter` `Swift` `Clean architecture` including `Onion` `MVVM pattern` 
 ### Also I have experience in web development:
 [![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind,figma)](https://skillicons.dev)
 - `HTML`
