@@ -24,13 +24,11 @@ Here are some ideas to get you started:
 - `Clean architecture` including `Onion`
 - `MVVM pattern` 
 ### Also I have experience in web development:
-[![Myskills](https://skillicons.dev/icons?i=html,css,js,ts,redux,tailwind)](https://skillicons.dev)
+[![Myskills](https://skillicons.dev/icons?i=html,css,ts,tailwind)](https://skillicons.dev)
 - `HTML`
 - `CSS`
-- `JavaScript`
 - `Typescript`
 - `React`
-- `Redux`
 - `Tailwind`
 
 ### My another skills:
